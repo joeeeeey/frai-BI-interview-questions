@@ -1,7 +1,7 @@
 # 现场案例题：候选人面试助手数据分析 / BI（Vibe Coding）
 
 > 本题将在 **45–60 分钟技术面试** 中以「vibe coding」形式完成，**不是离线作业**。  
-> 你可以现场自由使用 **任何工具**（如 BigQuery、VS Code、Cursor、ChatGPT、Excalidraw、draw.io、浏览器搜索等）。
+> 你可以现场自由使用 **任何工具**（如 BigQuery、VS Code、Cursor、ChatGPT、app.excalidraw.com、draw.io、浏览器搜索等）。
 
 请在面试前 **阅读完整题目说明**，我们会直接基于本题进入讨论和动手环节。
 
@@ -21,7 +21,7 @@
 
 1. **思路 / 方案结构**
    - 用任意形式表达你的整体思路，例如：
-     - 在 Excalidraw / draw.io / 白板工具中画一个简单框架图（数据流、指标框架、分析步骤），或  
+     - 在 app.excalidraw.com / draw.io / 白板工具中画一个简单框架图（数据流、指标框架、分析步骤），或  
      - 写下几条清晰的要点 / TODO 列表  
    - 目标：让我们快速看到你如何从产品问题 → 指标 → 数据 → 查询 / 分析。
 
